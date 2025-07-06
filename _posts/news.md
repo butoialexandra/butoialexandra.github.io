@@ -1,8 +1,36 @@
 ---
-layout: page
-title: Getting started with Reverie
-permalink: /getting-started/
+layout: post
+title: Introducing Reverie - A ridiculously elegant Jekyll theme
+categories: [Miscellaneous, Jekyll]
 ---
+
+[Reverie](https://github.com/amitmerchant1990/reverie) is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
+
+This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+
+## Features overview
+
+- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
+- Fully responsive and mobile optimized base theme
+- Sass/Coffeescript support using Jekyll 2.0
+- Free hosting on your GitHub Pages user site
+- All the SEO goodies comes in-built
+- Markdown blogging
+- Syntax highlighting using Pygments
+    - [Dracula syntax theme](https://draculatheme.com/) included
+- Disqus commenting
+- Google Analytics integration
+- Fuzzy search across blog posts
+- Pagination of posts works out-of-the-box.
+- Categorize posts out-of-the box
+- RSS Feed
+- In-built sitemap
+
+<div style="text-align: center;">
+ <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6KJY&placement=wwwamitmerchantcom" id="_carbonads_js"></script>
+</div>
+
+## Using Reverie on GitHub Pages
 
 ### Step 1) Fork Reverie to your User Repository
 
@@ -26,26 +54,6 @@ Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your firs
 
 ## Using Categories in Reverie
 
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
 
-For adding single category:
 
-```md
-categories: JavaScript
-```
 
-For adding multiple categories:
-
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
-
-## RSS
-
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
-
-## Sitemap
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
