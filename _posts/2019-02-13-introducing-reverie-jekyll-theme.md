@@ -8,8 +8,6 @@ categories: [Miscellaneous, Jekyll]
 
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
-![](/images/reverie-demo.png)
-
 ## Features overview
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
@@ -56,32 +54,6 @@ Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your firs
 
 ## Using Categories in Reverie
 
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
 
-For adding single category:
-
-```md
-categories: JavaScript
-```
-
-For adding multiple categories:
-
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
-
-## RSS
-
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
-
-## Sitemap
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
-
-## License
-
-MIT
 
 
