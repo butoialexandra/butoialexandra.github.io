@@ -9,10 +9,10 @@ name: Alexandra Butoi
 author: Alexandra Butoi
 
 # Short bio or description (displayed in the header)
-description: PhD Student in Natural Language Processing at ETH Zurich.
+description: PhD Student @ ETH Zurich.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-#avatar: /images/reverie.png
+avatar: /images/profile-picture.jpg
 
 #
 # Flags below are optional
@@ -37,7 +37,7 @@ enforce_ssl: http://butoialexandra.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/"
+baseurl: "/butoialexandra.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
